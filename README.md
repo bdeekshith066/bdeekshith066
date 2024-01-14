@@ -1,21 +1,25 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQFIW43pwwACdA/profile-displaybackgroundimage-shrink_350_1400/0/1700231168186?e=1710979200&v=beta&t=jRg8sM2xMRukYDrxyJdaE5vNIiDTwryRZRFzKgWwX8U)
 <h1 align="center">Hi 👋, I'm Deekshith B</h1>
 <h3 align="center">A 2nd year CSE engineering student at BMSCE.<br> Transforming ideas into innovation.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeekshith066&label=Profile%20views&color=0e75b6&style=flat" alt="bdeekshith066" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdeekshith066" alt="bdeekshith066" /></a> </p>
+<!-- New section added below Profile Views -->
+<div style="float: left; width: 50%; margin-right: 20px;">
+  <p>🔭 Currently Working On: Full stack- college canteen website</p>
 
-- 🔭 I’m currently working on **Full stack- college canteen website**
+  <p>🌱 Currently Learning: DSA, Java, SQL</p>
 
-- 🌱 I’m currently learning **DSA,Java,SQL**
+  <p>👯 Looking to Collaborate On: Building chatbots</p>
 
-- 👯 I’m looking to collaborate on **Building chatbots**
-
-- 📫 How to reach me **bdeekshith6@gmail.com**
+  <p>📫 How to Reach Me: bdeekshith6@gmail.com </p>
+  <br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://www.linkedin.com/in/deekshith2912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshith b" height="30" width="40" /></a>
 <a href="https://instagram.com/bdeekshith_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeekshith_06" height="30" width="40" /></a>
 <a href="https://youtube.com/@bdeekshith_06?si=WK8_tdFbrh0BpZEN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdeekshith_06" height="30" width="40" /></a>
