@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deekshith B</h1>
-<h3 align="center">A 2nd year CSE engineering student at BMSCE.</h3>
-<img align = "right" alt="coding" width="400 src=https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D845917450876946&tbnid=M_LJyNivdopVHM&vet=12ahUKEwiXou66ht2DAxUIlGMGHVaZAYwQMygVegUIARCTAQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FAnimationCoding%2F&docid=eHkiSmpuYBhRRM&w=1280&h=720&q=animated%20coding%20image&hl=en&ved=2ahUKEwiXou66ht2DAxUIlGMGHVaZAYwQMygVegUIARCTAQ"
+<h3 align="center">A 2nd year CSE engineering student at BMSCE.<br> Transforming ideas into innovation.</h3>
+<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeekshith066&label=Profile%20views&color=0e75b6&style=flat" alt="bdeekshith066" /> </p>
 
@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deekshith b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshith b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deekshith2912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshith b" height="30" width="40" /></a>
 <a href="https://instagram.com/bdeekshith_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeekshith_06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bdeekshith_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdeekshith_06" height="30" width="40" /></a>
+<a href="https://youtube.com/@bdeekshith_06?si=WK8_tdFbrh0BpZEN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdeekshith_06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
