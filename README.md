@@ -1,5 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQFIW43pwwACdA/profile-displaybackgroundimage-shrink_350_1400/0/1700231168186?e=1710979200&v=beta&t=jRg8sM2xMRukYDrxyJdaE5vNIiDTwryRZRFzKgWwX8U)
-<h1 align="center">Hi 👋, I'm Deekshith B</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+Deekshith.B;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
+
 <h3 align="center">A 2nd year CSE engineering student at BMSCE.<br> Transforming ideas into innovation.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg">
 
