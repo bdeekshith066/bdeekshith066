@@ -23,6 +23,7 @@
 <a href="https://www.linkedin.com/in/deekshith2912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshith b" height="30" width="40" /></a>
 <a href="https://instagram.com/bdeekshith_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeekshith_06" height="30" width="40" /></a>
 <a href="https://youtube.com/@bdeekshith_06?si=WK8_tdFbrh0BpZEN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdeekshith_06" height="30" width="40" /></a>
+<a href="https://instagram.com/the_promptengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_promptengineer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
