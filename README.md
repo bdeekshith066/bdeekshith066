@@ -10,9 +10,9 @@
 
 <!-- New section added below Profile Views -->
 <div style="float: left; width: 50%; margin-right: 20px;">
-  <p>🔭 Currently Working On: Full stack- college canteen website</p>
+  <p>🔭 Currently Working On: Building Chatbots</p>
 
-  <p>🌱 Currently Learning: DSA, Java, SQL</p>
+  <p>🌱 Currently Learning: DSA, Python</p>
 
   <p>👯 Looking to Collaborate On: Building chatbots</p>
 
